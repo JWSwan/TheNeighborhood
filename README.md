@@ -1,7 +1,7 @@
 # TheNeighborhood
 Group project for the funsies
 
-Contributing Members:
+##Collaborating Members:
 
  * Jude
  * Daniel Welch
