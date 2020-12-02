@@ -1,5 +1,10 @@
 # TheNeighborhood
 Group project for the funsies
 
+##Collaborating Members:
 
--Jude
+ * Jood
+ * Daniel Welch
+ *
+ *
+ *
