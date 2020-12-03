@@ -1,7 +1,7 @@
 # TheNeighborhood
 Group project for the funsies
 
-##Collaborating Members:
+## Collaborating Members:
 
  * Jude Swanson
  * David Lackey
