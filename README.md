@@ -5,7 +5,7 @@ Group project for the funsies
 
  * Jude Swanson
  * David Lackey
- * Elemr's Glue
+ * Elmer's Glue
  * Daniel Welch
  * Harry Styles
  * Palmer Goff
@@ -16,3 +16,4 @@ Group project for the funsies
  * Rachel McAdams
  * Timothy Marhsall
  * 
+ *
