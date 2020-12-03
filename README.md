@@ -3,8 +3,16 @@ Group project for the funsies
 
 ##Collaborating Members:
 
- * Jood
+ * Jude Swanson
+ * David Lackey
+ * Elemr's Glue
  * Daniel Welch
- *
- *
- *
+ * Harry Styles
+ * Palmer Goff
+ * Joshua Martin
+ * Patrick Ewing
+ * Woodrow Jackson
+ * Nathan Gilliam
+ * Rachel McAdams
+ * Timothy Marhsall
+ * 
