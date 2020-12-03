@@ -15,5 +15,5 @@ Group project for the funsies
  * Nathan Gilliam
  * Rachel McAdams
  * Timothy Marhsall
- * 
+ * Kc Schultz
  *
