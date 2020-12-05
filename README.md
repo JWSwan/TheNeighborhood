@@ -17,3 +17,7 @@ Group project for the funsies
  * Timothy Marhsall
  * Kc Schultz
  * Darby Dankwater
+
+## How to git gud 101
+### git for scrublords
+[How to git gud](gitgud101.md) 
