@@ -11,10 +11,10 @@ int main() //typical starting function. This is called in almost every base cpp 
 
 	cout << "Enter the type of dice to be rolled (example d20): "; //Output to the Command Line
 	cin >> Dice; //Command Line waiting for Input
-	
-	/* 
+
+	/*
 		This does a few things:
-		substr - Takes the substring of the Dice variables, 
+		substr - Takes the substring of the Dice variables,
 				 such that we remove the 'd' from the front of the Dice variable
 		stoi   - Converts the resulting string into an integer
 		Sides= - Assings the resulting integer on the right to the Sides variable on the left
@@ -23,7 +23,7 @@ int main() //typical starting function. This is called in almost every base cpp 
 
 	//Initializes random seed based on time, almost guarantees complete randomness (to some degree)_
 	srand(time(NULL));
-	
+
 	/* Rolls the dice */
 	//rand() generates a randon number between 0 and RAND_MAX based on the seed
 	// Sides is the inputed number of dice sides
@@ -34,6 +34,12 @@ int main() //typical starting function. This is called in almost every base cpp 
 }
 
 int nothing {
+<<<<<<< HEAD
     //this function does nothing
     int spaceofwaste = 1
 }
+=======
+	//this function does nothing
+	int wasteofspace = 1
+}
+>>>>>>> b6fcfb74d1e93551f96103feef34f70ef1e0f5a1
