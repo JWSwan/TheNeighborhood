@@ -9,7 +9,7 @@ Group project for the funsies
  * Daniel Welch
  * Harry Styles
  * Remlap Ffog
- * The Wild Aces
+ * Josh Martin
  * Patrick Ewing
  * Woodrow Jackson
  * Nathan Gilliam
@@ -20,4 +20,4 @@ Group project for the funsies
 
 ## How to git gud 101
 ### git for beginners
-[How to git gud](gitgud101.md) 
+[How to git gud](gitgud101.md)
