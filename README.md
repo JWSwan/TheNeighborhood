@@ -9,7 +9,7 @@ Group project for the funsies
  * Daniel Welch
  * Harry Styles
  * Remlap Ffog
- * Joshua Martin
+ * The Wild Aces
  * Patrick Ewing
  * Woodrow Jackson
  * Nathan Gilliam
