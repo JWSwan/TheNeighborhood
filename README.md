@@ -12,7 +12,7 @@ Group project for the funsies
  * Josh Martin
  * Patrick Ewing
  * Woodrow Jackson
- * Nathan Gilliam
+ * Darmorn Beldak
  * Rachel McAdams
  * Timothy Marhsall
  * Kc Schultz
