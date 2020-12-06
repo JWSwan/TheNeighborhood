@@ -16,7 +16,6 @@ Group project for the funsies
  * Rachel McAdams
  * Timothy Marhsall
  * Kc Schultz
- * Darby Dankwater
 
 ## How to git gud 101
 ### git for beginners
