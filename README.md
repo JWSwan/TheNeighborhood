@@ -19,5 +19,5 @@ Group project for the funsies
  * Darby Dankwater
 
 ## How to git gud 101
-### git for scrublords
+### git for beginners
 [How to git gud](gitgud101.md) 
