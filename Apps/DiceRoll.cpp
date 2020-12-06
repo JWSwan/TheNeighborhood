@@ -33,3 +33,7 @@ int main() //typical starting function. This is called in almost every base cpp 
 	return 0; //Complete the program successfully
 }
 
+int nothing {
+    //this function does nothing
+    int spaceofwaste = 1
+}
