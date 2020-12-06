@@ -8,7 +8,7 @@ Group project for the funsies
  * Elmer's Glue
  * Daniel Welch
  * Harry Styles
- * Palmer Goff
+ * Remlap Ffog
  * Joshua Martin
  * Patrick Ewing
  * Woodrow Jackson
