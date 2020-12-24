@@ -32,8 +32,3 @@ int main() //typical starting function. This is called in almost every base cpp 
 	cout << "You rolled a " << Dice << ": " << Result << endl; //Output the result
 	return 0; //Complete the program successfully
 }
-
-int nothing {
-	//this function does nothing
-	int wasteofspace = 1
-}
